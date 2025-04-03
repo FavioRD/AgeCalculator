@@ -20,6 +20,7 @@ El Age Calculator permite calcular la edad de una persona de manera sencilla y r
 - **CSS**: Estilo y diseño responsivo de la interfaz.
 - **JavaScript**: Lógica para el cálculo de la edad.
 
-Contribuciones 🤝
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor sigue los siguientes pasos:
+## Contribuciones 🤝
+
+- Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor sigue los siguientes pasos:
 
