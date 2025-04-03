@@ -36,17 +36,6 @@ Editar
 cd age-calculator
 Abre el archivo index.html en tu navegador web.
 
-Uso 🧑‍💻
-Abre el archivo index.html en tu navegador.
-
-Ingresa tu fecha de nacimiento en el campo correspondiente.
-
-Haz clic en el botón para calcular tu edad.
-
-La edad se mostrará en años, meses y días.
-
-Captura de Pantalla 📸
-
 Contribuciones 🤝
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor sigue los siguientes pasos:
 
