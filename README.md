@@ -50,12 +50,3 @@ Captura de Pantalla 📸
 Contribuciones 🤝
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor sigue los siguientes pasos:
 
-Realiza un fork de este repositorio.
-
-Crea una nueva rama para tu funcionalidad o corrección: git checkout -b feature/nueva-funcionalidad.
-
-Realiza tus cambios y haz commit: git commit -am 'Añadir nueva funcionalidad'.
-
-Envía tus cambios al repositorio remoto: git push origin feature/nueva-funcionalidad.
-
-Abre un pull request para que tus cambios sean revisados y fusionados.
