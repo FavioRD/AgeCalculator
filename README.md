@@ -20,33 +20,7 @@ El Age Calculator permite calcular la edad de una persona de manera sencilla y r
 - **CSS**: Estilo y diseño responsivo de la interfaz.
 - **JavaScript**: Lógica para el cálculo de la edad.
 
-## Instalación 🚀
+## Contribuciones 🤝
 
-Para ejecutar este proyecto localmente en tu máquina, sigue estos pasos:
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu_usuario/age-calculator.git
-Navega al directorio del proyecto:
-
-bash
-Copiar
-Editar
-cd age-calculator
-Abre el archivo index.html en tu navegador web.
-
-Uso 🧑‍💻
-Abre el archivo index.html en tu navegador.
-
-Ingresa tu fecha de nacimiento en el campo correspondiente.
-
-Haz clic en el botón para calcular tu edad.
-
-La edad se mostrará en años, meses y días.
-
-Captura de Pantalla 📸
-
-Contribuciones 🤝
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor sigue los siguientes pasos:
+- Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor sigue los siguientes pasos:
 
